@@ -1,5 +1,5 @@
-# IBM Data Science Capstone Project
-This project is final requirement for the completion of the IBM Data Science Certification. 
+# SpaceX Booster Landing Success Prediction
+This project is final requirement for the completion of the **IBM Data Science Certification**. 
 ## The Scenario
 You are a data scientist at SpaceY, a competitor of SpaceX. SpaceX advetises their Falcon 9 rocket launches with a cost of 62 million dollars compared to other providers with a cost of at least 165 million dollars. However, this descrepancy in cost is largely dependent on the reusage of the rocket boosters. If one can predict if the booster/s will land successfully or not, then they can determine whether the cost will be 62 million dollars or greater. When it is predicted that the cost is more expensive, SpaceY could approach the customers with a more affordable launch.
 
