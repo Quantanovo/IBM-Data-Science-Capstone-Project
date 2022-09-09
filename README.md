@@ -14,7 +14,7 @@ You are a data scientist at SpaceY, a competitor of SpaceX. SpaceX advetises the
 - Machine Learning Model tuning, comparison, and selection using scikit-learn.
 - Final Powerpoint Presentation for peer assessment*
 
-*not included in this repository
+**not included in this repository*
 
 ## Results and Conclusion
 A decision tree model was found to be the most successful at classifying whether a booster will successfully land or not with a 90.27% accuarcy on the training data, and a 83.33% accuracy on the testing data. It successfully predicted all successful landings from the testing data. Unfortunately, 50% of the failed landing were false positives.
