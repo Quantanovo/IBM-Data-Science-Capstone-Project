@@ -20,3 +20,4 @@ You are a data scientist at SpaceY, a competitor of SpaceX. SpaceX advetises the
 A decision tree model was found to be the most successful at classifying whether a booster will successfully land or not with a 90.27% accuarcy on the training data, and a 83.33% accuracy on the testing data. It successfully predicted all successful landings from the testing data. Unfortunately, 50% of the failed landing were false positives.
 
 ![The Confusion Matrix for The Final Model on the Testing Dataset:](https://github.com/Quantanovo/SpaceX-Booster-Landing-Success-Prediction/blob/main/Decision_Tree_Confusion_Matrix.png)
+<p style="text-align: center;">The Confusion Matrix for The Final Model on the Testing Dataset</p>
